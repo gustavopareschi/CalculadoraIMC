@@ -167,6 +167,7 @@ form button:hover{
   transform: scale(1.1);
 }
 
+
 /* alert error */
 .alert-error.open{
   visibility: visible;
