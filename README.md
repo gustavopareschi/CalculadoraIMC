@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Esta aplicação tem como objetivo calcular o IMC (Índice de Massa Corporal) de uma pessoa, a partir do peso em Kg e a altura em cm. Com esse IMC você consegue verificar a sua saúde e classificação de obesidade.
 
-- [Acesse o projeto finalizado, online](https://gustavopareschi.github.io/CALCULADORAIMC)
+- [Acesse o projeto finalizado, online](https://gustavopareschi.github.io/CalculadoraIMC)
 
 ## 🔖 Layout
 
